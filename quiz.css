@@ -1,0 +1,29 @@
+#head {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+
+
+#question {
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+
+#answer {
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+
+#btn {
+    display: flex;
+    justify-content: center;
+}
